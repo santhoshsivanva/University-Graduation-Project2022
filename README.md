@@ -16,7 +16,7 @@
   2) rform.php  -> Checking valid register number.
   3) stepone.php-> Fetching the username from that database based on register number.
   4) data.php   -> Updating other contents of that student on the same database 
-                   and inserting the whole thing into another table for validating the registered candidates.
+                   and inserting the whole thing into another table for figure out the registered candidates.
   5) indata.php -> Showing Success message to the candidate.
  
  
